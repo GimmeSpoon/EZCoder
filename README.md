@@ -1,2 +1,2 @@
 # EZCoder
-Open source IDE
+Text editor for programming
